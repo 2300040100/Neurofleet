@@ -21,9 +21,3 @@ The application provides a centralized platform to track vehicles, manage fleet 
 * **Mohammed Karishma**
 * Project: **NeuroFleetX AI Powered Urban Fleet and Traffic Intelligence**
 * Developed as part of : *Infosys Springboard Virtual Internship*
-
----
-
-## 📄 License
-
-This project is developed for educational purposes.
